@@ -1,0 +1,2 @@
+# KomunikimNjeriKompjuter
+ Projekt_MenaxhimiParkingutQytetit24
